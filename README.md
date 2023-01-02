@@ -15,7 +15,6 @@
 
 
 
-
 <p align=center>
   <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png"/>
 </p>
